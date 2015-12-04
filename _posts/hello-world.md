@@ -53,5 +53,9 @@ More info: [Deployment](http://hexo.io/docs/deployment.html)
 > npm install hexo-generator-feed
 
 
+##其它文章
+[hexo移植](http://nodlee.com/2015/06/07/how-to-porting-hexo/#more)
+
+
 
 
